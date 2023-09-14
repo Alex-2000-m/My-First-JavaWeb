@@ -1,0 +1,1 @@
+This is a project of JavaWeb, which can be used to manage the information of people.
